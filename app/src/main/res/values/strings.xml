@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EllaSlepAndroid</string>
+    <integer name="com_vk_sdk_AppId">51838731</integer>
+</resources>
